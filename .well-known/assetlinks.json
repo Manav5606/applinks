@@ -3,7 +3,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.recipto.customer_app",
+        "package_name": "com.recipto.customer_appa",
         "sha256_cert_fingerprints": ["08:3F:AC:13:C4:D4:C4:98:5E:10:FB:35:70:D5:10:AC:56:BB:2D:4A:86:91:92:73:D1:3B:88:F4:DF:1C:7A:3C"]
       }
     }
